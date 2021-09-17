@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\AssetTest.exe
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\AssetTest.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\AssetTest.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\AssetTest.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\AssetTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\ref\AssetTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\bin\Debug\net5.0\AssetTest.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\ref\AssetTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week2\AssetTest\obj\Debug\net5.0\AssetTest.genruntimeconfig.cache
